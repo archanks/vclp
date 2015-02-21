@@ -4,11 +4,12 @@
  * Module Dependencies
  */
 
-var gulp = require('gulp');
-var livereload = require('gulp-livereload');
-var nodemon = require('gulp-nodemon');
-var less = require('gulp-less');
-var open = require('gulp-open');
+var gulp = require('gulp'),
+    livereload = require('gulp-livereload'),
+    nodemon = require('gulp-nodemon'),
+    less = require('gulp-less'),
+    open = require('gulp-open'),
+    minifyCSS = require('gulp-minify-css');
 
 /**
  * Process CSS
@@ -17,6 +18,7 @@ var open = require('gulp-open');
 gulp.task('styles', function () {
   return gulp.src('./assets/less/*.less')
     .pipe(less({}))
+    .pipe(minifyCSS({keepBreaks: false}))
     .pipe(gulp.dest('./public/css'))
     .pipe(livereload());
 });
