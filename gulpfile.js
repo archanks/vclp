@@ -71,5 +71,5 @@ gulp.task('open', ['nodemon'], function () {
 
 gulp.task('default', ['open', 'styles'], function () {
   gulp.watch('views/*.ejs').on('change', livereload.changed);
-  gulp.watch('./assets/*.less', ['styles']);
+  gulp.watch('./assets/*.less', ['styles'], livereload.changed);
 });
