@@ -4,7 +4,8 @@ var express = require('express')
   , expressValidator = require('express-validator')
   , http = require('http')
   , path = require('path')
-  , _ = require('lodash');
+  , _ = require('lodash')
+  , config = require('./config.json');
 
 
 var app = express();
@@ -26,7 +27,8 @@ app.use(expressValidator());
 app.use(express.static('public'));
 
 app.get('/', function(req, res) {
-  res.render('index');
+
+  res.render('index', config);
 });
 
 http.createServer(app).listen(app.get('port'), function(){
