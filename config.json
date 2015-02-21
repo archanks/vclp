@@ -3,5 +3,5 @@
     "description" : "An independent legal policy advisory group whose mission is to achieve good governance in India through impacting legislative and regulatory design",
     "nav"         : [ "home", "about", "people", "reports", "media", "events", "contact", "careers"],
     "slogan"      : "Better Laws. Better Governance.",
-    "ga-account"  : "UA-46136133-1"
+    "ga"  : "UA-46136133-1"
 }
