@@ -1,0 +1,92 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+
+      <h1>People</h1>
+
+      <hr class="fancy-hr">
+      <div class="row">
+        <div class="col-md-4">
+
+          <i class="fa fa-group fa-5x"></i>
+          <h3>Board of Directors</h3>
+          <ul>
+            <% for(var i=0;i<people.directors.length;i++) { %>
+              <li>
+                <h4>
+                  <%= people.directors[i].name %>
+                  <span><%= people.directors[i].title %></span>
+                </h4>
+              </li>
+            <% } %>
+          </ul>
+
+        </div>
+        <div class="col-md-4">
+
+          <i class="fa fa-group fa-5x"></i>
+          <h3>Mentor Group</h3>
+          <ul>
+            <% for(var i=0;i<people.mentors.length;i++) { %>
+              <li>
+                <h4>
+                  <%= people.mentors[i].name %>
+                  <span><%= people.mentors[i].title %></span>
+                </h4>
+              </li>
+            <% } %>
+          </ul>
+
+        </div>
+        <div class="col-md-4">
+
+          <i class="fa fa-group fa-5x"></i>
+          <h3>Patrons</h3>
+          <p>The Vidhi Centre for Legal Policy would like to thank the following patrons for their incredible generosity, both with funding and their time.</p>
+          <ul>
+            <% for(var i=0;i<people.patrons.length;i++) { %>
+              <li>
+                <h4>
+                  <%= people.patrons[i] %>
+                </h4>
+              </li>
+            <% } %>
+          </ul>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Staff</h2>
+
+          <% for(var i=0;i<people.staff.length;i++) { %>
+            <div class="row">
+              <div class="col-md-8">
+                <h2><%= people.staff[i].name.first %> <%= people.staff[i].name.last %></h2>
+                <span><%= people.staff[i].bio %></span>
+              </div>
+              <div class="col-md-4">
+                <div class="staff-member <%= people.staff[i].name.first %>"></div>
+              </div>
+            </div>
+          <% } %>
+
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Non-Resident Experts</h2>
+
+          <% for(var i=0;i<people.experts.length;i++) { %>
+            <h5>
+              <%= people.experts[i].name %> / <%= people.experts[i].title %> / <%= people.experts[i].location %>
+            </h5>
+          <% } %>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
