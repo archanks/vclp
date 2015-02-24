@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+
+      <h1>About</h1>
+
+      <hr class="fancy-hr">
+      <div class="row">
+        <div class="col-md-7">
+
+          <h4><%= about.description %></h4>
+
+          <h3><%= about.mission.title %></h3>
+          <p><%= about.mission.description %></p>
+
+          <p><strong><%= about.company %></strong>.</p>
+
+        </div>
+        <div class="col-md-5">
+          <h3>Our approach</h3>
+          <div class="panel-group" id="approach" role="tablist" aria-multiselectable="true" >
+
+            <% for(var i=0;i<about.approach.length;i++){ %>
+              <div class="panel panel-default">
+
+                <div class="panel-heading" role="tab" id="approach<%= i %>">
+                  <a  data-toggle="collapse"
+                      data-parent="#approach"
+                      href="#<%= about.approach[i].title %>"
+                      aria-expanded="true"
+                      aria-controls="<%= about.approach[i].title %>">
+                    <h4 class="panel-title">
+                       <i class="fa fa-star"></i> &nbsp; <%= about.approach[i].title %>
+                    </h4>
+                  </a>
+                </div>
+
+                <div id="<%= about.approach[i].title %>" class="panel-collapse collapse <% if (i==0) { %>in<% } %>" role="tabpanel" aria-labelledby="approach<%= i %>">
+                  <div class="panel-body">
+                    <%= about.approach[i].description %>
+                  </div>
+                </div>
+              </div>
+            <% } %>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

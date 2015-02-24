@@ -9,7 +9,9 @@ var gulp = require('gulp'),
     nodemon = require('gulp-nodemon'),
     less = require('gulp-less'),
     open = require('gulp-open'),
-    minifyCSS = require('gulp-minify-css');
+    minifyCSS = require('gulp-minify-css'),
+    concat = require('gulp-concat'),
+    uglify = require('gulp-uglify');
 
 /**
  * Process CSS
@@ -20,6 +22,17 @@ gulp.task('styles', function () {
     .pipe(less({}))
     .pipe(minifyCSS({keepBreaks: false}))
     .pipe(gulp.dest('./public/css'))
+    .pipe(livereload());
+});
+
+/**
+ * Minify JS
+ */
+gulp.task('scripts', function() {
+  gulp.src(['./assets/js/vendor/jquery.js','./assets/js/vendor/bootstrap.js'])
+    .pipe(concat('script.min.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('./public/js'))
     .pipe(livereload());
 });
 
@@ -69,7 +82,7 @@ gulp.task('open', ['nodemon'], function () {
  * Default
  */
 
-gulp.task('default', ['open', 'styles'], function () {
+gulp.task('default', ['open', 'styles', 'scripts'], function () {
   gulp.watch('views/*.ejs').on('change', livereload.changed);
   gulp.watch('./assets/*.less', ['styles'], livereload.changed);
 });
