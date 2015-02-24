@@ -1,0 +1,72 @@
+{
+  "description" : "Our team has incorporated international best practices in Indian law-making reports, ensured that legislation is not in conflict with the Constitution of India and relevant Supreme Court precedent, and recommended appropriate institutional reform to make laws clear in form and substance.",
+  "pdfs"        : [
+    {
+      "title"   : "Submissions on the Draft Drugs and Cosmetics (Amendment) Bill, 2015.",
+      "labels"  : ["Public Law"],
+      "slug"    : "submissions-on-the-drugs-and-cosmetics-amendment-bill" },
+    {
+      "title"   : "Operationalising India's Nuclear Agreements: Issues and Solutions on Nuclear Liability.",
+      "labels"  : ["Public Law"],
+      "slug"    : "operationalising-indias-nuclear-agreements" },
+    {
+      "title"   : "Halting Tribunalisation: Impact of the Supreme Court's judgment in Madras Bar Association v Union of India on Extant Tribunals",
+      "labels"  : ["Judicial Reforms and Litigation"],
+      "slug"    : "halting-tribunalisation" },
+    {
+      "title"   : "Suggestions and comments on the EIA process to the the TSR Subramanian Committee",
+      "labels"  : ["Public Law"],
+      "slug"    : "suggestions-and-comments-on-the-eia-process" },
+    {
+      "title"   : "Suggestions and Comments on the Proposed Amendments to the Child Labour Act, 1986",
+      "labels"  : ["Public Law"],
+      "slug"    : "suggestions-and-comments-on-the-proposed-amendments-to-the-child-labour-act" },
+    {
+      "title"   : "Crowdfunding in India",
+      "labels"  : ["Corporate Laws and  Financial Regulation"],
+      "slug"    : "crowdfunding-in-india" },
+    {
+      "title"   : "Towards the Rule of Law: 25 Legal Reforms for India (2014)",
+      "labels"  : ["Miscellaneous"],
+      "slug"    : "towards-the-rule-of-law" },
+    {
+      "title"   : "State of the Nation's Tribunals - Telecom Disputes Settlement and Appellate Tribunal (2014)",
+      "labels"  : ["Judicial Reforms and Litigation"],
+      "slug"    : "telecom-disputes-settlement-and-appellate-tribunal" },
+    {
+      "title"   : "State of the Nation's Tribunals - Intellectual Property Appellate Board (2014)",
+      "labels"  : ["Judicial Reforms and Litigation"],
+      "slug"    : "intellectual-property-appellate-board" },
+    {
+      "title"   : "A Briefing Document on the Civil Liability for Nuclear Damage Bill, 2010: Questions of Constitutionality and Legislative Options Open to Parliament.",
+      "labels"  : ["Energy and Environmental Law"],
+      "slug"    : "a-briefing-document-on-the-civil-liability-for-nuclear-damage-bill" },
+    {
+      "title"   : "The Prevention of Torture Bill, 2010: A Briefing Document.",
+      "labels"  : ["Public Law"],
+      "slug"    : "the-prevention-of-torture-bill-2010-a-briefing-document" },
+    {
+      "title"   : "Addendum to A Briefing Document on the Civil Liability for Nuclear Damage Bill, 2010: Questions of Constitutionality and Legislative Options Open to Parliament.",
+      "labels"  : ["Energy and Environmental Law"],
+      "slug"    : "addendum-to-a-briefing-document-on-the-civil-liability-for-nuclear-damage-bill" },
+    {
+      "title"   : "A Briefing Document on the Judicial Standards and Accountability Bill, 2011",
+      "labels"  : ["Judicial Reforms and Litigation"],
+      "slug"    : "a-briefing-document-on-the-judicial-standards-and-accountability-bill" },
+    {
+      "title"   : "Legal Practitioners (Regulations and Maintenance of Standards in Professions, Protecting the Interest of Clients and Promoting the Rule of Law) Bill, 2010.",
+      "labels"  : ["Judicial Reforms and Litigation"],
+      "slug"    : "legal-practitioners" },
+    {
+      "title"   : "A Briefing Document on the Lokpal Bill, 2011",
+      "labels"  : ["Public Law"],
+      "slug"    : "a-briefing-document-on-the-lokpal-bill" },
+    {
+      "title"   : "The Enemy Property Bill, 2010: Select Issues",
+      "labels"  : ["Public Law"],
+      "slug"    : "the-enemy-property-bill" },
+    {
+      "title"   : "A Report on the Constitution (115th Amendment) Bill, 2011: GST",
+      "labels"  : ["Public Law"],
+      "slug"    : "a-report-on-the-constitution-115th-amendment-bill" }]
+}

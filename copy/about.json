@@ -1,0 +1,22 @@
+{
+  "description"         : "Vidhi Centre for Legal Policy is an independent legal policy advisory group whose mission is to achieve good governance in India through impacting legislative and regulatory design.",
+    "mission"           :
+      { "title"         : "Creating a Coherent Policy Future for India",
+        "description"   : "We engage with Ministries in the Government of India, State governments, Standing Committees of Parliament, other agencies and instrumentalities of the state, either at Union or State level, advising on proposed legislation and regulation, assist in legislative drafting and provide independent critical analyses of existing law and policy with recommendations for reform. In all our work we are entirely non-partisan and committed to the highest standards of research and professional excellence." },
+  "company"             : "Vidhi Centre for Legal Policy is a not-for-profit company registered under Section 25 of the Companies Act, 1956.",
+  "approach"            : [
+    { "title"           : "Constitutionality",
+      "description"     : "Ensuring that legislation is not in conflict with the Constitution of India and relevant Supreme Court precedent." },
+
+    { "title"           : "Coherence",
+      "description"     : "Harmonising conflicting laws and rules that govern similar subjects." },
+
+    { "title"           : "Compliance",
+      "description"     : "Drafting legislation that complies with India's obligations under international law." },
+
+    { "title"           : "Clarity",
+      "description"     : "Recommending appropriate institutional reform to make laws clear in form and substance." },
+
+    { "title"           : "Contemporaneity",
+      "description"     : "Incorporating international best practices in Indian law-making." }]
+}

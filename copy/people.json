@@ -1,0 +1,261 @@
+{
+  "directors"    : [
+    { "name"     : "Dr. AS Ganguly",
+      "title"    : "Member of Parliament, Rajya Sabha" },
+    { "name"     : "Professor Govindraj Hegde",
+      "title"    : "Associate Professor, National Law School of India University, Bangalore" },
+    { "name"     : "Mr. Uday Shankar",
+      "title"    : "CEO, Star India" },
+    { "name"     : "Ms. Ireena Vittal",
+      "title"    : "Strategic Business Advisor" }],
+  "mentors"      : [
+    { "name"     : "Neha Jain",
+      "title"    : "Associate Professor of Law, University of Minnesota Law School" },
+    { "name"     : "Reetika Khera",
+      "title"    : "Assistant Professor, IIT, Delhi" },
+    { "name"     : "Vikram Raghavan",
+      "title"    : "Contributing Editor, Law and Other Things" },
+    { "name"     : "Ritin Rai",
+      "title"    : "Advocate, Supreme Court of India" },
+    { "name"     : "Gautam Saha",
+      "title"    : "Partner, AZB & Partners" },
+    { "name"     : "Rajdeep Sardesai",
+      "title"    : "Consulting Editor, India Today" },
+    { "name"     : "R.V. Anuradha",
+      "title"    : "Partner, Clarus Law Associates" },
+    { "name"     : "Sachin Malhan",
+      "title"    : "Executive Partner, Changemakers Program, Ashoka" },
+    { "name"     : "Shamnad Basheer",
+      "title"    : "Founder, IDIA and SpicyIP" },
+    { "name"     : "Somasekhar Sundaresan",
+      "title"    : "Partner, JSA, Advocates and Solicitors" }],
+  "patrons"      : [ "The Mahindra Group",
+                     "Pirojsha Godrej Foundation",
+                     "Rohini Nilekani",
+                     "Mohandas Pai",
+                     "Vikram Sarabhai Foundation",
+                     "Arvind Datar"],
+  "staff"        : [
+    { "name"     : {
+        "first"  : "alok",
+        "last"   : "prasanna" },
+      "bio"      : "Alok graduated from the National Academy for Legal Studies and Research (NALSAR) University of Law in 2008. He obtained the Bachelor in Civil Law (BCL) from the University of Oxford in 2009 in the subjects of Competition Law, Jurisprudence, Regulation and Socio-economic Rights. Between September, 2009 and November, 2013 he has practised as a Junior Advocate in the chambers of Additional Solicitor General and later, from February 2013, Solicitor General of India, Mr Mohan Parasaran. Alok has assisted Mr Parasaran in cases relating to International Taxation, Constitutional Law, Administrative Law, among other areas of law. At VCLP, he is a Senior Resident Fellow focusing on constitutional law." },
+
+    { "name"     : {
+        "first"  : "arghya",
+        "last"   : "sengupta" },
+      "bio"      : "Arghya graduated with a B.A. LL.B (Hons.) from the National Law School of India University, Bangalore, as a gold medallist in 2008. Subsequently he was awarded the Rhodes Scholarship and graduated with a distinction in the BCL at Oxford University. He went on to be awarded an M.Phil in Law at Oxford University, where he taught for two years as a Lecturer in Administrative Law at Pembroke College At VCLP, he is the Research Director and Senior Resident Fellow focusing on constitutional law, administrative law and allied topics in comparative public law." },
+
+    { "name"     : {
+        "first"  : "debanshu",
+        "last"   : "mukherjee" },
+      "bio"      : "Debanshu is a corporate lawyer with four years of experience in advising Indian and foreign corporate houses on transactional and regulatory matters during his tenure with AZB & Partners, a full-service law firm. He graduated from Hidayatullah National Law University in 2008 at the top of his class, and also served as the President of its Student Bar Association in 2006-07. He completed his postgraduate studies in law from the University of Oxford, where he graduated with a distinction in the BCL. His combination of subjects at Oxford included Commercial Remedies (remedies under the laws of contract, trust and torts in a commercial context), Business Taxation, Financial Regulation and Competition Law. At VCLP, he is a Senior Resident Fellow specialising in Corporate Law and Financial Regulation." },
+
+    { "name"     : {
+        "first"  : "dhvani",
+        "last"   : "mehta" },
+      "bio"      : "Dhvani graduated with a B.L.S; LL.B. from Government Law College, Mumbai in 2009. She was subsequently awarded the Rhodes Scholarship and graduated with distinctions in the BCL and the M.Phil at the University of Oxford. She is currently reading for a D.Phil in Law, focusing on the fragmentation of environmental legislation. She has taught Environmental Law to undergraduate students at Oxford and was Chairperson of Oxford Pro Bono Publico in 2011-12. At VCLP, she is a Senior Resident Fellow focusing on environmental law, human rights law and related issues in international law." },
+
+    { "name"     : {
+        "first"  : "faiza",
+        "last"   : "rahman" },
+      "bio"      : "Faiza graduated with a B.A. LL.B (Hons.) from the National Academy for Legal Studies and Research (NALSAR) University of Law, Hyderabad, in 2012. She subsequently worked with Luthra & Luthra Law Offices, Mumbai, for two years in the capital markets team. At VCLP she is a Research Fellow focussing on public law and judicial reforms." },
+
+    { "name"     : {
+        "first"  : "ritwika",
+        "last"   : "sharma" },
+      "bio"      : "Ritwika graduated with a B.A. LL.B. (Hons.) from Amity Law School, Delhi (GGS Indraprastha University) in 2013. She went on to complete an LL.M. from the National Academy of Legal Studies and Research (NALSAR), Hyderabad in 2014 where her choice of subjects largely revolved around constitutional law, legal theory and environmental law. She successfully completed her Teaching Assistantship in administrative law at NALSAR in April, 2014. At VCLP, she is a Junior Research Fellow focussing on the practice areas of public law and judicial reform." },
+
+    { "name"     : {
+        "first"  : "srijoni",
+        "last"   : "sen" },
+      "bio"      : "Srijoni graduated with a B.A. LL.B (Hons.) from the National Law School of India University, Bangalore, in 2009.She subsequently worked with McKinsey & Company as a Business Analyst for two years. In 2013 she completed an LL.M from Columbia Law School, New York. At VCLP she is a Senior Resident Fellow focussing on election laws and social welfare policy." },
+
+    { "name"     : {
+        "first"  : "shubhangi",
+        "last"   : "bhadada" },
+      "bio"      : "Shubhangi graduated with a B.A. LLB (Hons.) from National Law School of India University in 2010. She worked in Luthra & Luthra Law Offices, New Delhi for two years in the M&A team. She subsequently obtained the BCL from University of Oxford in 2013. She was a pro-bono legal assistant at the ADC-ICTY in Fall 2013 and an intern in the Trial Chambers of ICTY from January to May 2014. At VCLP, she is a Research Fellow focusing on international law and corporate law." },
+
+    { "name"     : {
+        "first"  : "shreya",
+        "last"   : "garg" },
+      "bio"      : "Shreya graduated with a B.B.A. LL.B. (Hons.) from the National Law University, Jodhpur in 2012. Subsequently she worked with Luthra & Luthra Law Offices, New Delhi for two years in the mergers & acquisitions team and the real estate team. At VCLp, she is a Research Fellow focusing on corporate law and financial regulation." },
+
+    { "name"     : {
+        "first"  : "yashaswini",
+        "last"   : "mittal" },
+      "bio"      : "Yashaswini graduated from the Jindal Global Law School with a B.A. LLB (Hons.) in 2014. Prior to joining VCLP, she interned at various national and international organizations such as the Central Information Commission (CIC) and the United Nations High Commission on Refugees (UNHCR) at New Delhi and the United Nations Mechanism for International Criminal Tribunals (UNMICT) at Arusha, Tanzania. Her main areas of research in law school were in the field of Constitutional Law, Public International Law, International Criminal Law and Human Rights. At VCLP, she is Junior Research Fellow looking to widen her scope of research into a variety of different areas of law." }
+    ],
+  "experts"      : [
+    { "name"     : "Abhishek Bhattacharya",
+      "title"    : "Associate",
+      "location" : "Centre for Civil Society" },
+
+    { "name"     : "Adarsh Varghese",
+      "title"    : "LL.M. Candidate",
+      "location" : "Harvard Law School" },
+
+    { "name"     : "Aditi Dani",
+      "title"    : "Advocate",
+      "location" : "Supreme Court of India" },
+
+    { "name"     : "Aditi Singh",
+      "title"    : "Associate Consultant",
+      "location" : "Dalberg Global Development Advisors" },
+
+    { "name"     : "Amanda Gilbertson",
+      "title"    : "Anthropologist",
+      "location" : "Auckland City Council" },
+
+    { "name"     : "Amba Salelkar",
+      "title"    : "Fellow",
+      "location" : "Inclusive Planet Centre for Disability Law and Policy" },
+
+    { "name"     : "Amol Verma",
+      "title"    : "Resident in Internal Medicine",
+      "location" : "Canada" },
+
+    { "name"     : "Aniruddha Jairam",
+      "title"    : "Ph.D. Candidate in Comparative Politics",
+      "location" : "University of Pennsylvania" },
+
+    { "name"     : "Anirudh Krishnan",
+      "title"    : "Advocate",
+      "location" : "Madras High Court" },
+
+    { "name"     : "Anjali Anchayil",
+      "title"    : "LLM",
+      "location" : "University of Cambridge" },
+
+    { "name"     : "Anisha Gopi",
+      "title"    : "LLM Candidate",
+      "location" : "Fletcher School of Law and Diplomacy" },
+
+    { "name"     : "Anisha Sharma",
+      "title"    : "Candidate for the D.Phil in Economics",
+      "location" : "University of Oxford" },
+
+    { "name"     : "Aarthi Rajan",
+      "title"    : "Advocate",
+      "location" : "Supreme Court of India" },
+
+    { "name"     : "Aryaman Bhatnagar",
+      "title"    : "Associate Fellow",
+      "location" : "Observer Research Foundation" },
+
+    { "name"     : "Ashrita Prasad Kotha",
+      "title"    : "Senior Research Associate",
+      "location" : "Jindal Global Law School" },
+
+    { "name"     : "BN Suchindran",
+      "title"    : "Advocate",
+      "location" : "Madras High Court" },
+
+    { "name"     : "Chintan Chandrachud",
+      "title"    : "PhD Candidate",
+      "location" : "University of Cambridge" },
+
+    { "name"     : "Devanik Saha",
+      "title"    : "",
+      "location" : "Monitor Inclusive Markets" },
+
+    { "name"     : "Gautam Bhatia",
+      "title"    : "LLM Candidate",
+      "location" : "Yale Law School" },
+
+    { "name"     : "Jeet Shroff",
+      "title"    : "LLM",
+      "location" : "Harvard Law School" },
+
+    { "name"     : "John Feddersen",
+      "title"    : "CEO",
+      "location" : "Aurora Energy Research" },
+
+    { "name"     : "Krishnaprasad KV",
+      "title"    : "Candidate for the M.Phil. in Law",
+      "location" : "University of Oxford" },
+
+    { "name"     : "Leah Verghese",
+      "title"    : "SIPA Candidate",
+      "location" : "Columbia University" },
+
+    { "name"     : "Lekha Sridhar",
+      "title"    : "Candidate for the Masters in Public Policy",
+      "location" : "University of Oxford" },
+
+    { "name"     : "Nandan Kamath",
+      "title"    : "Proprietor",
+      "location" : "The Law Offices of Nandan Kamath, Bangalore" },
+
+    { "name"     : "Navruz Vakil",
+      "title"    : "Associate",
+      "location" : "AZB & Partners, Mumbai" },
+
+    { "name"     : "Nikhil Kanekal",
+      "title"    : "Journalist",
+      "location" : "The Deccan Herald, Bangalore" },
+
+    { "name"     : "Poornima Hatti",
+      "title"    : "Partner",
+      "location" : "Samvad Partners" },
+
+    { "name"     : "Raadhika Gupta",
+      "title"    : "Assistant Professor",
+      "location" : "Jindal Global Law School, Sonipat" },
+
+    { "name"     : "Rishikesh Ram Bhandary",
+      "title"    : "PhD. Candidate in International Relations",
+      "location" : "The Fletcher School of Law and Diplomacy, Tufts University" },
+
+    { "name"     : "Rohan Paul",
+      "title"    : "Co-founder",
+      "location" : "Assistive Technologies Group, Indian Institute of Technology, Delhi" },
+
+    { "name"     : "Ryan Goss",
+      "title"    : "Assistant Professor",
+      "location" : "Australian National University, Canberra" },
+
+    { "name"     : "Saurabh Bhattacharjee",
+      "title"    : "Associate Professor",
+      "location" : "NUJS Kolkata" },
+
+    { "name"     : "Sebastian Ko",
+      "title"    : "Lawyer",
+      "location" : "admitted in Hong Kong and New York" },
+
+    { "name"     : "Shaishavi Kadakia",
+      "title"    : "Director and Co-Founder",
+      "location" : "Legatax Online Info Private Limited" },
+
+    { "name"     : "Sidharth Chauhan",
+      "title"    : "Assistant Professor",
+      "location" : "NALSAR University of Law" },
+
+    { "name"     : "Sowmya Kumar",
+      "title"    : "LLM",
+      "location" : "University College London" },
+
+    { "name"     : "Sowjhanya Shankaran",
+      "title"    : "Associate",
+      "location" : "S&R Associates" },
+
+    { "name"     : "Subramanian Natarajan",
+      "title"    : "Candidate for the Masters’ in Law and Finance",
+      "location" : "University of Oxford" },
+
+    { "name"     : "Udayarkar Rangarajan",
+      "title"    : "Advocate",
+      "location" : "Madras High Court" },
+
+    { "name"     : "Varun Hallikeri",
+      "title"    : "Infrastructure Consultant",
+      "location" : "Washington DC" },
+
+    { "name"     : "Yashna Shrawani",
+      "title"    : "LLM",
+      "location" : "Columbia Law School" },
+
+    { "name"     : "Zoheb Hossain",
+      "title"    : "Advocate",
+      "location" : "Supreme Court of India" }]
+}

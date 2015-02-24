@@ -1,0 +1,22 @@
+{
+  "callforresident" : {
+      "title"       : "Senior Resident Fellow in Financial Regulation and Corporate Law - Call for Applications",
+      "description" : "The Vidhi Centre for Legal Policy (Vidhi) is inviting applications for one (1) full-time Fellowship in its financial regulation and corporate law team. Applications are invited from applicants with passion and expertise in the field of corporate law and financial regulation for the position of “Senior Resident Fellow”. The Financial Regulation and Corporate Law team at Vidhi prepares research papers for the Government in several areas of financial regulation and corporate law.",
+      "details"     : "senior-resident-fellow.pdf"
+  },
+  "callforinterns"  : {
+    "description"   : "The Vidhi Centre for Legal Policy (Vidhi) is inviting applications for internships from students enrolled in a recognised three-year or five-year law programme at any Indian university",
+    "opportunities" : [ "Interact with legal academics and practising lawyers",
+                        "Conduct research on cutting-edge issues of law and policy",
+                        "Assist with drafting reports",
+                        "Attend Supreme Court hearings and help update an upcoming blog on the latest petitions,part-heard matters and final judgments of the Supreme Court"],
+    "length"        : "Applications are invited on a rolling basis for a minimum period of 4 weeks and a maximum period of 12 weeks.",
+    "location"      : "Interns will be required to be resident in Delhi for the duration of the internship. A basic stipend will be provided.",
+    "email"         : "vclp@vidhilegalpolicy.in",
+    "requirements"  : [ "resumé",
+                        "a writing sample of not more than 1500 words on any legal subject",
+                        "exact dates over which you would like to undertake your internship. You may specify any dates during the year."],
+    "policy"        : "Applicants are urged to not apply for an internship more than 3 months in advance from the proposed date of their internship. Our internship policy mandates that selected candidates will be notified of our decision at least 45 days before the commencement of our internship, and not before that."
+  }
+
+}

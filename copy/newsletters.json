@@ -1,0 +1,19 @@
+{
+  "collection" : [
+    {
+      "date"   : "October 22nd, 2014",
+      "title"  : "Autumn 2014",
+      "pdf"    : "autumn-2014"
+    },
+    {
+      "date"   : "July 4th, 2014",
+      "title"  : "Summer 2014",
+      "pdf"    : "summer-2014"
+    },
+    {
+      "date"   : "March 19th, 2014",
+      "title"  : "Spring 2014",
+      "pdf"    : "spring-2014"
+    }
+  ]
+}

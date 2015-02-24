@@ -1,0 +1,194 @@
+{
+  "media"      : [{
+      "title"  : "To get around nuclear liability, government mulls an insurance fund",
+      "author" : "Indrani Bagchi",
+      "link"   : "http://timesofindia.indiatimes.com/india/To-get-around-nuclear-liability-government-mulls-an-insurance-fund/articleshow/45797158.cms",
+      "press"  : "timesofindia"
+    },
+    {
+      "title"  : "Judicial appointments, transfers remain areas of doubt and uncertainty",
+      "author" : "Adarsh Srivastava",
+      "link"   : "http://barandbench.com/content/212/judicial-appointments-transfers-remain-areas-doubt-and#.VK5uWyuUebN",
+      "press"  : "barandbench"
+    },
+    {
+      "title"  : "101 laws that need to go...",
+      "author" : "",
+      "link"   : "http://www.business-standard.com/article/current-affairs/101-laws-that-need-to-go-114100701301_1.html",
+      "press"  : "business-standard"
+    },
+    {
+      "title"  : "India's Most Laughable Laws",
+      "author" : "Dhiraj Nayyar",
+      "link"   : "http://www.bloombergview.com/articles/2014-10-10/india-s-most-laughable-laws",
+      "press"  : "bloomberg"
+    },
+    {
+      "title"  : "The law for the layman",
+      "author" : "Sonya Dutta Choudhury",
+      "link"   : "http://www.livemint.com/Leisure/nkLPCT9pz4n7fLD892gd9O/Vidhi-Centre-for-Legal-Policy--The-law-for-the-layman.html",
+      "press"  : "livemint"
+    },
+    {
+      "title"  : "Oxford, Harvard Minds helped N-Bill",
+      "author" : "Vikas Pathak",
+      "link"   : "http://www.hindustantimes.com/India-news/NewDelhi/Oxford-Harvard-minds-helped-N-Bill/Article1-593253.aspx#disqus_thread",
+      "press"  : "hindustantimes"
+    },
+    {
+      "title"  : "Tender Loving Counsel",
+      "author" : "Avantika Bhuyan",
+      "link"   : "http://www.openthemagazine.com/article/nation/tender-loving-counsel",
+      "press"  : "openthemagazine"
+    },
+    {
+      "title"  : "How Much under the Table",
+      "author" : "Pragya Singh",
+      "link"   : "http://www.outlookindia.com/article.aspx?278639",
+      "press"  : "outlookindia"
+    },
+    {
+      "title"  : "Redefining Torture",
+      "author" : "V.Venkatesan",
+      "link"   : "http://www.frontline.in/static/html/fl2803/stories/20110211280304000.htm",
+      "press"  : "frontline"
+    }],
+  "articles"   : [{
+      "title"  : "'The new leviathan: If Parliament remains stalled, an overweening executive will take over functions of the legislature'",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://blogs.timesofindia.indiatimes.com/toi-edit-page/the-new-leviathan-if-parliament-remains-stalled-an-overweening-executive-will-take-over-functions-of-the-legislature/",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "Wind Of Change For Chit-Mahals?",
+      "author" : "Shubhangi Bhadada and Yashaswini Mittal",
+      "link"   : "http://www.outlookindia.com/article/Wind-Of-Change-For-ChitMahals/293475",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "Regulation of Clinical Trials and the Need for Comprehensive Reform",
+      "author" : "Dhvani Mehta",
+      "link"   : "http://www.epw.in/commentary/regulation-clinical-trials-and-need-comprehensive-reform.html",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "Indo-US nuclear deal: Still a work-in-progress",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://www.financialexpress.com/article/fe-columnist/indo-us-nuclear-deal-still-a-work-in-progress/35244/",
+      "labels" : ["Energy and Environment"]
+    },
+    {
+      "title"  : "Resoliving the Nuclear Liability Deadlock",
+      "author" : "Arghya Sengupta and Anupama Sen",
+      "link"   : "http://www.thehindu.com/opinion/lead/lead-article-resolving-the-nuclear-liability-deadlock/article6757524.ece",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "A steel frame for clinical trials",
+      "author" : "Ranjit Roy Chaudhury, Arghya Sengupta",
+      "link"   : "http://www.thehindu.com/opinion/lead/a-steel-frame-for-clinical-trials/article6479055.ece",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "A Red Herring for Judicial Independence",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://www.thehindu.com/opinion/lead/lead-article-a-red-herring-for-judicial-independence/article6391843.ece",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "Tilting at Windmills (Again)",
+      "author" : "Alok Prasanna Kumar",
+      "link"   : "https://drive.google.com/file/d/0B26zlRjR-z1iSTlWbnRxaGxIWGs/edit?usp=sharing",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "NJAC: Govt in a hurry has missed two important checks",
+      "author" : "Justice (Retd) Ruma Pal, Arghya Sengupta",
+      "link"   : "http://timesofindia.indiatimes.com/home/stoi/all-that-matters/NJAC-Govt-in-a-hurry-has-missed-two-important-checks/articleshow/40319724.cms",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "Bench Structure and Constitutional Adjudication - The Court at a Crossroads",
+      "author" : "Ritwika Sharma",
+      "link"   : "http://www.livelaw.in/bench-structure-constitutional-adjudication-court-crossroads",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "Ten legal reforms that must be on the Modi government's agenda",
+      "author" : "Vidhi Centre for Legal Policy",
+      "link"   : "http://scroll.in/article/671165/Ten-legal-reforms-that-must-be-on-the-Modi-government%27s-agenda",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "Reform judicial appointments",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://timesofindia.indiatimes.com/home/opinion/edit-page/Reform-judicial-appointments/articleshow/37532819.cms",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "When the law gives no refuge",
+      "author" : "Rukmini Das",
+      "link"   : "http://www.thehindu.com/opinion/op-ed/when-the-law-gives-no-refuge/article6142577.ece",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "Cutting through legal clutter",
+      "author" : "Arghya Sengupta, Srijoni Sen",
+      "link"   : "http://www.thehindu.com/opinion/op-ed/cutting-through-legal-clutter/article6130770.ece",
+      "labels" : ["Miscellaneous"]
+    },
+    {
+      "title"  : "Judged by one’s actions, not connections",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://www.hindustantimes.com/comment/analysis/judged-by-one-s-actions-not-connections/article1-1218862.aspx",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "Right to Education: neither free nor compulsory",
+      "author" : "Alok Prasanna Kumar and Rukmini Das",
+      "link"   : "http://www.thehindu.com/opinion/op-ed/right-to-education-neither-free-nor-compulsory/article5989866.ece?homepage=true",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "Choosing the Chief Justice",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://www.thehindu.com/opinion/lead/choosing-the-chief-justice/article5975905.ece",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "Interpreting a federal Constitution",
+      "author" : "Arghya Sengupta and Alok Prasanna Kumar",
+      "link"   : "http://www.thehindu.com/opinion/lead/interpreting-a-federal-constitution/article5649745.ece",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "Section 377 opinion: The spectre of forum shopping and why a presidential reference would be ‘dangerous’",
+      "author" : "Alok Prasanna Kumar",
+      "link"   : "http://www.legallyindia.com/201401284288/Constitutional-law/377-presidential-reference-would-be-dangerous",
+      "labels" : ["Judicial Reforms and Litigation"]
+    },
+    {
+      "title"  : "To cleanse politics, a new pact",
+      "author" : "Justice AP Shah and Arghya Sengupta",
+      "link"   : "http://www.indianexpress.com/news/to-cleanse-politics-a-new-pact/1154210/",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "Liability rules leave very little recourse",
+      "author" : "Arghya Sengupta",
+      "link"   : "http://www.thehindu.com/opinion/lead/liability-rules-leave-very-little-recourse/article2675389.ece",
+      "labels" : ["Energy and Environment"]
+    },
+    {
+      "title"  : "The Justice JS Verma Committee Report on Amendments to Criminal Law relating to Sexual Violence in India- Preliminary Observations",
+      "author" : "Dhvani Mehta",
+      "link"   : "http://ohrh.law.ox.ac.uk/?p=961",
+      "labels" : ["Public Law"]
+    },
+    {
+      "title"  : "A settlement long overdue",
+      "author" : "Rukmini Das and Deepak Raju",
+      "link"   : "http://www.thehindu.com/opinion/lead/a-settlement-long-overdue/article5016349.ece",
+      "labels" : ["Miscellaneous"]
+    }]
+}
