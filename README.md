@@ -1,2 +1,1 @@
-# simple-node-app
-Simple Node +  Mongo DB app with CMS 
+# single page node app
