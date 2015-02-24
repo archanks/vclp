@@ -1,1 +1,9 @@
 <% layout('../layout') -%>
+
+<% for(var i=1;i<global.nav.length;i++){ %>
+
+  <section id="<%= global.nav[i] %>">
+  	<%- partial( global.nav[i] ) %>
+  </section>
+
+<% } %>
